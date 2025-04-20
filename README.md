@@ -23,7 +23,7 @@ This project includes two components:
 Python was used to fetch, clean, and analyze the hourly ridership dataset via the NYC Open Data API. Key visualizations were generated using `matplotlib`, `seaborn`, and `pandas`.
 
 📎 **View the Python Notebook here:**  
-➡️ [Uploading MTA Transit 2020 - 2024.ipynb…]()
+➡️ 
 
 
 ---
@@ -32,7 +32,7 @@ Python was used to fetch, clean, and analyze the hourly ridership dataset via th
 Tableau was used to create an interactive dashboard that complements the Python analysis and allows users to explore patterns by **year**, **borough**, **station**, and **payment method**.
 
 📎 **Explore the live dashboard on Tableau Public:**  
-➡️ 
+➡️ https://public.tableau.com/views/MTATransportation/HowMTASubwayRidershipChanged20202024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -60,7 +60,7 @@ Tableau was used to create an interactive dashboard that complements the Python 
 
 ---
 
-## ✅ Author
+## 👩🏻 Author
 
 **Julia Ribeiro**  
 
