@@ -32,7 +32,7 @@ Python was used to fetch, clean, and analyze the hourly ridership dataset via th
 Tableau was used to create an interactive dashboard that complements the Python analysis and allows users to explore patterns by **year**, **borough**, **station**, and **payment method**.
 
 📎 **Explore the live dashboard on Tableau Public:**  
-➡️ [https://public.tableau.com/views/MTATransportation/HowMTASubwayRidershipChanged20202024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+➡️ https://public.tableau.com/app/profile/julia.santos.ribeiro/viz/MTA-HowMTASubwayRidershipChangedfrom2020-2024/HowMTASubwayRidershipChanged20202024
 
 ---
 
